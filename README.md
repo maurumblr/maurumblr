@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! I'm Mauricio 👋 </h1>
 <h3 align="center">Full Stack Web Developer 🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
