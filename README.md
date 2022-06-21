@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hello there! I'm Mauricio 👋 </h1>
+<h3 align="center">Full Stack Web Developer 🚀</h3>
+<div>
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="left"> 
+  <h3> 👨🏻‍💻 About Me </h3>
 
-<!--
-**maurumblr/maurumblr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 🎓 &nbsp; Studying Computer Programming.
+  - 💻 &nbsp; I recently worked as a BI back-end developer.
+  - 💼 &nbsp; Now i’m currently open to work.
+  - 💡 &nbsp; Always exploring new technologies and looking for quick hacks. 
+  - 📚 &nbsp; Learning more about Backend Architectures and Frontend Developement libraries like React.
+  - 📈 &nbsp; Spot trader.  
+  - 👾 &nbsp; Gaming as hobbie.
+</div> 
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h3> 💻 Languages and Tools </h3>
+  <p>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="50"> <img src="https://icon-library.com/images/django-icon/django-icon-12.jpg" width="50">    
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png"   width="50"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50">
+  <p>
+</div>
